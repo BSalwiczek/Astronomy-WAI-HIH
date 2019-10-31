@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/transformation1.xsl"?>
+<astronomia>
+  <ciekawostki-na-dzis>
+      <ciekawostka>Czy wiesz że pomimo że Wenus jest dalej od Słońca jest na niej cieplej niż na Merkurym?</ciekawostka>
+  </ciekawostki-na-dzis>
+  <poczatkowy-opis>
+    <tytul>
+        Jak zaczęła się moja przygoda z astronomią?
+    </tytul>
+    <opis>
+      Od zawsze pasjonowało mnie to co nieznane, a cóż jest bardziej nieznane człowiekowi niż kosmos? Astronomia ciekawiła mnie od dzieciństwa,
+      ale zacząłem rozwijać się w tym kierunku dopiero pod koniec szkoły podstawowej. Wtedy właśnie pojechałem na pierwszy obóz astronomiczny,
+      na którym poznałem ludzi, którzy mają podobne spojrzenie na świat i świra na punkcie astronomii. Po obozie zacząłem spędzać wolny czas
+      pogłębiając tajemnice kosmosu. Będąc w gimnazjum zapisałem się na koło astronomiczne w pobliskim liceum i tam dowiedziałem się o różnych
+      możliwościach obserwacji, poznałem gwiazdy zmienne, które mnie zafascynowały i którym poświęcam jedną z podston. Wtedy też zainwestowałem
+      w mój pierwszy teleskop i zacząłem robić amatorskie obserwacje.
+    </opis>
+  </poczatkowy-opis>
+  <moj-sprzet-astronomiczny>
+    <sprzet typ="teleskop">
+        <nazwa>teleskop SKY-WATCHER (Synta) BK1309EQ2</nazwa>
+        <data-nabycia>
+          <rok>2015</rok>
+          <miesiac>czerwiec</miesiac>
+          <dzien>12</dzien>
+        </data-nabycia>
+        <srednica>130mm</srednica>
+    </sprzet>
+    <sprzet typ="lornetka">
+      <nazwa>Lornetka NIKON ACTION EX 10X50</nazwa>
+      <data-nabycia>
+        <rok>2014</rok>
+        <miesiac>sierpień</miesiac>
+        <dzien>21</dzien>
+      </data-nabycia>
+      <srednica>50mm</srednica>
+    </sprzet>
+    <sprzet typ="teleskop">
+      <nazwa>Teleskop Dobson 12" Deluxe Delta Optical-GSO</nazwa>
+      <data-nabycia>
+        <rok>2016</rok>
+        <miesiac>marzec</miesiac>
+        <dzien>14</dzien>
+      </data-nabycia>
+      <srednica>300mm</srednica>
+    </sprzet>
+  </moj-sprzet-astronomiczny>
+  <dalszy-opis>
+    <tytul>Dalsza część historii</tytul>
+    <opis>
+      W 3 klasie gimnazjum spróbowałem swoich sił w olimpiadzie astronomicznej. Choć nie dostałem się do finału, nabrałem bardzo dużo doświadczenia
+      i zdobyłem jeszcze wiekszą chęć do nauki astronomii. Postanowiłem, że w 1 liceum dostanę się do finału. Po wielu miesiącach zgłębiania astrofizyki
+       i astronomii, rozwiązując niezliczone zadania z poprzednich olimpiad udało mi się dostać do finału i osiągnąłem nawet tytuł laureata zajmując 6
+       miejsce. Niestety nie znalazłem się w pierwszej piątce, która reprezentowała Polskę w Pekinie. W 2 i 3 klasie liceum nie przygotowywałem się już
+       w takim stopniu na olimpiadę i dwukrotnie zostałem finalistą. Odsunąłem wtedy na bok astrofizykę na rzecz astronomii obserwacyjnej. Intensywnie
+       obserwowałem gwiazdy zmienne, a obserwacje wpisywałem do AAVSO - amerykańskiej organizacji zajmującej się zbieraniem obserwacji astronomów amatorów.
+       <aavso link="https://www.aavso.org/">AAVSO</aavso>
+    </opis>
+  </dalszy-opis>
+  <statystyki>
+      <rozpoczecie-obserwacji>27/09/2014</rozpoczecie-obserwacji>
+      <czas-obserwacji>383 godziny</czas-obserwacji>
+      <liczba-obserwacji>1916</liczba-obserwacji>
+  </statystyki>
+  <astrofotografia>
+    <tytul>Astrofotografia</tytul>
+      <opis>
+        Próbowałem też swoich sił w astrofotografii (fotografii nocnego nieba). Niestety, moje teleskopy nie nadają się do tej dziedziny. Żeby robić
+        zdjęcia zapierające dech w piersiach, należy kupić bardzo drogi sprzęt, dlatego zdjęcia wykonuję moim telefonem (Huawei p10).
+      </opis>
+      <zdjecia>
+        <zdjecie numer="0"><img alt="Zdjęcie nieba" src="/img/my-photo-1.jpg"/></zdjecie>
+        <zdjecie numer="1"><img alt="Zdjęcie nieba" src="/img/my-photo-2.jpg"/></zdjecie>
+        <zdjecie numer="2"><img alt="Zdjęcie nieba" src="/img/my-photo-3.jpg"/></zdjecie>
+        <zdjecie numer="3"><img alt="Zdjęcie nieba" src="/img/my-photo-4.jpg"/></zdjecie>
+        <zdjecie numer="4"><img alt="Zdjęcie nieba" src="/img/my-photo-5.jpg"/></zdjecie>
+        <zdjecie numer="5"><img alt="Zdjęcie nieba" src="/img/my-photo-6.jpg"/></zdjecie>
+        <zdjecie numer="6"><img alt="Zdjęcie nieba" src="/img/my-photo-7.jpg"/></zdjecie>
+      </zdjecia>
+  </astrofotografia>
+  <gwiazdy-zmienne>
+    <znaczenie>
+      <tytul>Czym są gwiazdy zmienne?</tytul>
+      <opis>
+        Gwiazda zmienna to taka, która zmienia swoją jasność w znaczący sposób. Ogólnie rzecz biorąc, każda gwiazda wykazuje drobne zmiany jasności,
+        ale są one w większości przypadków niezauważalne. Nawet Słońce zmienia swoją jasność, choć jedynie o 0.1%. Gwiazdy zmienne, którymi się zainteresowałem
+        i które nadają się do obserwacji potrafią jaśnieć i ciemnieć setki, tysiące a nawet dziesiątki tysięcy razy. Obserwując taką gwiazdę i zapisując jej
+        jasność można po pewnym czasie wyraźnie zauważyć, że nie świeci ona stałą jasnością. Jest wiele rodzajów gwiazd zmiennych. Jedne zmieniają się na przestrzeni
+        godzin i dni, inne potrzebują więcej czasu (nawet rok i więcej). Również przyczyna zmian nie zawsze jest taka sama. Niekiedy jest ona spowodowana czynnikami
+        zewnętrznymi np. zakrycie jednej gwiazdy przez drugą, czasem jej strukturą fizyczną (gwiazda kurczy się i rozszerza zmieniając tym samym swoją moc promieniowania).
+         Na chwilę obecną znamy ponad 150 000 gwiazd zmiennych i każdego dnia liczba ta rośnie.
+      </opis>
+      <dowiedz-sie-wiecej link="https://lco.global/spacebook/stars/variable-stars/"></dowiedz-sie-wiecej>
+    </znaczenie>
+    <historia-gwiazd-zmiennych>
+        <tytul>Trochę historii</tytul>
+        <opis>
+          Pierwsze gwiazdy zmienne odkryto już w epoce przedteleskopowej. W 1596 roku David Fabricius zauważył okresowe znikanie gwiazdy omicron ceti
+          (nazwanej później Mirą). Obserwowano w tym czasie również dwie jasne supernowe. Zjawiska te dowiodły, że gwiazdy tak naprawdę nie są niezmienne
+          tak jak wcześniej sądzono. W 1786r. znano już 12 gwiazd zmiennych. Od połowy XIX wieku liczba znanych zmiennych wzrastała coraz szybciej. W 1875
+          znano już 143 zmienne, w 1903 – 700, w 1947 – 11 tysięcy.
+        </opis>
+    </historia-gwiazd-zmiennych>
+    <powod-obserwacji-gwiazd-zmiennych>
+      <tytul>W jakim celu obserwować gwiazdy zmienne?</tytul>
+      <powod numer="0">Zdaża się, że przyczyną zmian gwiazdy jest przejście przed jej tarczą planety.
+        Dzięki obserwacjom takiej gwiazdy można dowiedzieć się wiele o tej planecie i wywnioskować czy może istnieć na niej życie.</powod>
+      <powod numer="1">Gwiazdy zmienne zdardzają nam sekrety swojej ewolucji i pozwalają nam tym samym lepiej zrozumieć naszą własną gwiazdę – Słońce.</powod>
+      <powod numer="2">Dzięki ich obserwacji dowiadujemy się o najważniejszych właściwościach gwiazd takich jak masa, jasność, promień, temperatura, wewnętrzna
+        i zewnętrzna struktura.</powod>
+      <powod numer="3">Obserwacja niektórych gwiazd zmiennych (Cefeidy i RR Lyrae) pozwala nam określić odległość od nich. Gdy znajdują się w innej galaktyce
+        poznajemy wówczas odległość od nas do tej galaktyki.</powod>
+      <powod numer="4">Spędzanie czasu pod gwieździstym niebem i obserwacja sprawiają przyjemność a wyniki, które są używane potem w poważnych publikacjach, dużo satysfakcji </powod>
+    </powod-obserwacji-gwiazd-zmiennych>
+  </gwiazdy-zmienne>
+  <uklad-sloneczny>
+      <krotki-opis>
+        <tytul>O Układzie Słonecznym</tytul>
+        <opis>
+          Przez większą część dziejów ludzie uważali, że wszystkie widoczne na niebie ciała niebieskie krążą dookoła Ziemi. Tak przecież wydaje się, kiedy patrzymy na niebo.
+          Taki sposób myślenia nazywamy dzisiaj teorią geocentryczną. Głosiła ona, że Ziemia jest centrum Wszechświata, a Słońce, Księżyc, planety i gwiazdy krążą dookoła niej.
+          Dopiero badania, obserwacje i pomiary polskiego astronoma Mikołaja Kopernika dowiodły, że Ziemia oraz inne planety okrążają Słońce. Obecnie nie ma już wątpliwości,
+          że stworzona przez uczonego teoria heliocentryczna jest prawdziwa. Tym samym okazało się, że Ziemia nie jest środkiem Wszechświata, a jedynie jednym z wielu obiektów,
+          które się w nim znajdują. W rzeczywistości Układ Słoneczny jest zbudowany w taki sposób, że w jego centrum znajduje się Słońce, a dookoła niego krążą planety, w tym
+          również Ziemia.
+        </opis>
+      </krotki-opis>
+      <porownanie-planet>
+          <tytul>Porównanie planet Układu Słonecznego</tytul>
+          <tabela>
+              <planeta>
+                <nazwa>Merkury</nazwa>
+                <rodzaj-planet>skalista</rodzaj-planet>
+                <ilosc-ksiezycow>0</ilosc-ksiezycow>
+                <czas-obiegu jednostka="lata ziemskie">0,24</czas-obiegu>
+                <okres-obrotu>58d 15h 26m</okres-obrotu>
+                <odleglosc-od-slonca jednostka="AU">0,39</odleglosc-od-slonca>
+              </planeta>
+              <planeta>
+                <nazwa>Wenus</nazwa>
+                <rodzaj-planet>skalista</rodzaj-planet>
+                <ilosc-ksiezycow>0</ilosc-ksiezycow>
+                <czas-obiegu jednostka="lata ziemskie">0,64</czas-obiegu>
+                <okres-obrotu>243d 0h 27m</okres-obrotu>
+                <odleglosc-od-slonca jednostka="AU">0,72</odleglosc-od-slonca>
+              </planeta>
+              <planeta>
+                <nazwa>Ziemia</nazwa>
+                <rodzaj-planet>skalista</rodzaj-planet>
+                <ilosc-ksiezycow>1</ilosc-ksiezycow>
+                <czas-obiegu jednostka="lata ziemskie">1</czas-obiegu>
+                <okres-obrotu>23h 56m 04s	</okres-obrotu>
+                <odleglosc-od-slonca jednostka="AU">1</odleglosc-od-slonca>
+              </planeta>
+              <planeta>
+                <nazwa>Mars</nazwa>
+                <rodzaj-planet>skalista</rodzaj-planet>
+                <ilosc-ksiezycow>2</ilosc-ksiezycow>
+                <czas-obiegu jednostka="lata ziemskie">1,88</czas-obiegu>
+                <okres-obrotu>24h 37m 23s</okres-obrotu>
+                <odleglosc-od-slonca jednostka="AU">1,52</odleglosc-od-slonca>
+              </planeta>
+              <planeta>
+                <nazwa>Jowisz</nazwa>
+                <rodzaj-planet>gazowa</rodzaj-planet>
+                <ilosc-ksiezycow>79</ilosc-ksiezycow>
+                <czas-obiegu jednostka="lata ziemskie">11,86</czas-obiegu>
+                <okres-obrotu>9h 55m 30s</okres-obrotu>
+                <odleglosc-od-slonca jednostka="AU">5,20</odleglosc-od-slonca>
+              </planeta>
+              <planeta>
+                <nazwa>Saturn</nazwa>
+                <rodzaj-planet>gazowa</rodzaj-planet>
+                <ilosc-ksiezycow>62</ilosc-ksiezycow>
+                <czas-obiegu jednostka="lata ziemskie">29,45</czas-obiegu>
+                <okres-obrotu>10h 39m 22s</okres-obrotu>
+                <odleglosc-od-slonca jednostka="AU">9,54</odleglosc-od-slonca>
+              </planeta>
+              <planeta>
+                <nazwa>Uran</nazwa>
+                <rodzaj-planet>gazowo-lodowa</rodzaj-planet>
+                <ilosc-ksiezycow>27</ilosc-ksiezycow>
+                <czas-obiegu jednostka="lata ziemskie">84,07</czas-obiegu>
+                <okres-obrotu>17h 14m 24s</okres-obrotu>
+                <odleglosc-od-slonca jednostka="AU">19,19</odleglosc-od-slonca>
+              </planeta>
+              <planeta>
+                <nazwa>Uran</nazwa>
+                <rodzaj-planet>gazowo-lodowa</rodzaj-planet>
+                <ilosc-ksiezycow>14</ilosc-ksiezycow>
+                <czas-obiegu jednostka="lata ziemskie">164,88</czas-obiegu>
+                <okres-obrotu>16h 06m 36s</okres-obrotu>
+                <odleglosc-od-slonca jednostka="AU">30,01</odleglosc-od-slonca>
+              </planeta>
+          </tabela>
+          <zrodlo link="https://pl.wikipedia.org/wiki/Uk%C5%82ad_S%C5%82oneczny"></zrodlo>
+      </porownanie-planet>
+  </uklad-sloneczny>
+  <kontakt>
+      <tytul>Jak się ze mną skontaktować?</tytul>
+      <opis>Zaciekawiły Cię treści publikowane na stronie? Znalazłeś nieścisłość albo błąd o którym chciałbyś mi powiedzieć? A może po prostu chcesz
+        się umówić na wspólne obserwacje? Jeśli tak oto mój mail na który możesz wysyłać wszelkie zapytania/prośby/propozycje!
+      </opis>
+      <email link="mailto:test@test.pl">test@test.pl</email>
+  </kontakt>
+</astronomia>
